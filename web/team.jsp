@@ -13,6 +13,7 @@
             background-color: #f7f7f9;
             border: 1px solid #e1e1e8;
             border-radius: 4px;
+            margin-top: 1em;
         }
     </style>
     <body id="page-top">
